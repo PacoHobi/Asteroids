@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: slick.jar jogg-0.0.7.jar jorbis-0.0.15.jar lwjgl_util.jar 
+ jinput.jar lwjgl.jar
+Main-Class: main.Game
+
